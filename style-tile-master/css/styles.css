@@ -1,0 +1,104 @@
+.color-1 {
+    background: #08007F;
+}
+
+.color-2 {
+    background: #FFA665;
+}
+
+.color-3 {
+    background: #DB00A2;
+}
+
+.pattern-1 {
+    background: url(http://orig08.deviantart.net/5704/f/2014/053/6/5/free_space_galaxy_texture_by_lyshastra-d77gh18.jpg);
+}
+
+.pattern-2 {
+    background: url(http://www.pageresource.com/wallpapers/wallpaper/wedding-graphy-textures-fine-art-grunge_1265200.jpg);
+}
+
+.pattern-3 {
+    background: url(http://www.texturex.com/albums/Stone-Textures/Stone%20Texture%20wall%20large%20rock%20grey%20image.jpg);
+}
+
+body .imagery-1 {
+    background: url("https://i.ytimg.com/vi/oVXZTmi2ruI/maxresdefault.jpg") 100px 100px;
+}
+
+body .imagery-2 {
+    background: url("http://img02.deviantart.net/c28c/i/2011/271/6/5/the_tardis_by_munkierevolution-d4b6quc.jpg") 100px 100px;
+}
+
+body .imagery-3 {
+    background: url(http://cdn.playbuzz.com/cdn/c068f1a0-2f9b-4102-8aed-1498f28e1591/83125b8c-ed58-4c05-828f-60259e770a89.jpg) 100px 100px;
+}
+
+.icon-1 {
+    background: url(http://www.ntsang.net/wp-content/uploads/2014/08/Firefly.jpg);
+}
+
+.icon-2 {
+    background: url(http://cdn.playbuzz.com/cdn/3c919f4c-aa93-4267-86b4-ccadc09655fd/fbb8a649-0a9d-4c71-8f67-2227982afbc9.png);
+}
+
+.icon-3 {
+    background: url(http://i.imgur.com/EokAf0t.jpg)
+}
+
+ul {
+    display: table;
+    color: blueviolet;
+    background-color: aquamarine;
+    list-style-type: circle;
+    margin: 0;
+    padding: 0;
+    text-decoration: underline
+}
+
+li a:hover {
+    background-color: #555;
+    color: white;
+}
+
+h1 {
+    font-family: serif;
+    font-size: 300%;
+    font-weight: 500;
+    color: darkmagenta
+}
+
+h2 {
+    font-family: cursive;
+    font-variant: inherit;
+    color: blue;
+    text-decoration: inherit;
+}
+
+h3 {
+    font-family: monospace;
+    color: firebrick;
+    font-variant: small-caps;
+    text-decoration: underline;
+}
+
+p {
+    font-family: fantasy;
+    color: darkseagreen;
+    font-weight: 600;
+}
+
+button {
+    font-size: 150%;
+    color: deeppink
+}  
+
+
+
+
+
+
+
+
+
+
