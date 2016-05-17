@@ -31,31 +31,32 @@
 }
 
 body .imagery-1 {
-    background: url("https://i.ytimg.com/vi/oVXZTmi2ruI/maxresdefault.jpg") 100px 100px;
+    background: 1px 1px;
 }
 
 body .imagery-2 {
-    background: url("http://img02.deviantart.net/c28c/i/2011/271/6/5/the_tardis_by_munkierevolution-d4b6quc.jpg") 100px 100px;
-}
+    width: auto;
+    height: auto;
 
 body .imagery-3 {
-    background: url(http://cdn.playbuzz.com/cdn/c068f1a0-2f9b-4102-8aed-1498f28e1591/83125b8c-ed58-4c05-828f-60259e770a89.jpg) 100px 100px;
+    width: auto;
+    height: auto;
 }
 
 .icon-1 {
-    background: url(http://www.ntsang.net/wp-content/uploads/2014/08/Firefly.jpg);
+    background: 20px 20px;
 }
 
 .icon-2 {
-    background: url(http://cdn.playbuzz.com/cdn/3c919f4c-aa93-4267-86b4-ccadc09655fd/fbb8a649-0a9d-4c71-8f67-2227982afbc9.png);
+    background: 20px 20px;
 }
 
 .icon-3 {
-    background: url(http://i.imgur.com/EokAf0t.jpg)
+    background: 20px 20px;
 }
 
 
-nav li{
+.primary-nav {
   list-style: none;
   display: inline-block;
   font-style: oblique;
