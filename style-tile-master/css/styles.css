@@ -1,17 +1,17 @@
 .color-1 {
-    background: #08007F;
+    background: #D6B785;
 }
 
 .color-2 {
-    background: #FFA665;
+    background: #2A3C7E;
 }
 
 .color-3 {
-    background: #DB00A2;
+    background: #3E9CBB;
 }
 
 .pattern-1 {
-    background: url(http://orig08.deviantart.net/5704/f/2014/053/6/5/free_space_galaxy_texture_by_lyshastra-d77gh18.jpg);
+    background: url(../img/background-texture-889036_960_720.jpg);
 }
 
 .pattern-2 {
@@ -19,7 +19,7 @@
 }
 
 .pattern-3 {
-    background: url(http://www.texturex.com/albums/Stone-Textures/Stone%20Texture%20wall%20large%20rock%20grey%20image.jpg);
+    background: url(../img/bluetexture.jpg);
 }
 
 body .imagery-1 {
@@ -65,13 +65,13 @@ h1 {
     font-family: serif;
     font-size: 300%;
     font-weight: 500;
-    color: darkmagenta
+    color: #503F1B;
 }
 
 h2 {
     font-family: cursive;
     font-variant: inherit;
-    color: blue;
+    color: #2A3C7E;
     text-decoration: inherit;
 }
 
@@ -84,13 +84,13 @@ h3 {
 
 p {
     font-family: fantasy;
-    color: darkseagreen;
+    color: #5B36A1;
     font-weight: 600;
 }
 
 button {
     font-size: 150%;
-    color: deeppink
+    color: deeppink;
 }  
 
 
