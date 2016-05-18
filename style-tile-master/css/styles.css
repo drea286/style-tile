@@ -56,12 +56,16 @@
     border: none;
 }
 
-.icon-2 {
-    background: 20px 20px;
+.icon-2{
+    background: url("../img/beach.png");
+    background-size: contain;
+    border: none;
 }
 
-.icon-3 {
-    background: 20px 20px;
+.icon-3{
+    background: url("../img/Dog-icon.png");
+    background-size: contain;
+    border: none;
 }
 
 
