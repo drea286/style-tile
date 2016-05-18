@@ -78,6 +78,13 @@
   justify-content: space-around;
   }
 
+ul {
+    list-style: none;
+    display: inline-block;
+    
+}
+
+/*
 nav a:link,
 nav a:visited {
   background-color: #3E9CBB;
@@ -103,10 +110,11 @@ nav a:hover:before {
 nav a:active {
   background-color: red;
   color: black;
-}
+} */
 
 
-/*ul {
+/*
+ul {
     display: table;
     color: blueviolet;
     background-color: aquamarine;
@@ -118,8 +126,9 @@ nav a:active {
 
 li a:hover {
     background-color: #555;
-    color: white; */
+    color: white; 
 }
+*/
 
 h1 {
     font-family: 'IM Fell Double Pica', serif;
