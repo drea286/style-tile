@@ -50,8 +50,10 @@
     height: ;
 }
 
-.icon-1 {
-    background: 20px 20px;
+.icon-1{
+    background: url("../img/grad-icon.png");
+    background-size: contain;
+    border: none;
 }
 
 .icon-2 {
