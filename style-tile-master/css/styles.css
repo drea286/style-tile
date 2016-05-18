@@ -31,17 +31,23 @@
 }
 
 .imagery-1 {
-    background-image: url(../img/tanwhitestyletile.jpg);
+    width: ;
+    height: ;
 }
 
-body .imagery-2 {
-    width: auto;
-    height: auto;
+.imagery-2 {
+    width: ;
+    height: ;
 }
 
-body .imagery-3 {
-    width: auto;
-    height: auto;
+.imagery-3 {
+    width: ;
+    height: ;
+}
+
+.imagery-4 {
+    width: ;
+    height: ;
 }
 
 .icon-1 {
