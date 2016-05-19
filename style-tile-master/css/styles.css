@@ -31,23 +31,23 @@
 }
 
 .imagery-1 {
-    width: ;
-    height: ;
+    background-size: contain;
+    border: none;
 }
 
 .imagery-2 {
-    width: ;
-    height: ;
+    background-size: contain;
+    border: none;
 }
 
 .imagery-3 {
-    width: ;
-    height: ;
+    background-size: contain;
+    border: none;
 }
 
 .imagery-4 {
-    width: ;
-    height: ;
+    background-size: contain;
+    border: none;
 }
 
 .icon-1{
@@ -75,21 +75,25 @@
   font-style: oblique;
   font-family: sans-serif;
   font-variant: small-caps;
-  justify-content: space-around;
   }
 
 ul {
     list-style: none;
-    display: inline-block;
-    
+    transition: all .5s;
+    margin: 0;
+    padding: 0;
 }
 
-/*
-nav a:link,
+nav a:link {
+  background-color: #3E9CBB;
+  text-decoration: none;
+  transition: all .5s;
+}
+
 nav a:visited {
   background-color: #3E9CBB;
   text-decoration: none;
-  padding: 1em;
+  padding: .25em;
   transition: all .5s;
 }
 
@@ -97,7 +101,6 @@ nav a:hover {
   background-color: #2A3C7E;
   margin-left: .5em;
   color: azure;
- 
 }
 
 nav a:hover:before {
@@ -110,25 +113,13 @@ nav a:hover:before {
 nav a:active {
   background-color: red;
   color: black;
-} */
-
-
-/*
-ul {
-    display: table;
-    color: blueviolet;
-    background-color: aquamarine;
-    list-style-type: circle;
-    margin: 0;
-    padding: 0;
-    text-decoration: underline
 }
 
 li a:hover {
     background-color: #555;
     color: white; 
 }
-*/
+
 
 h1 {
     font-family: 'IM Fell Double Pica', serif;
@@ -159,7 +150,7 @@ p {
 
 button {
     font-size: 150%;
-    color: #C24783;
+    color: #3E9CBB;
 }  
 
 
